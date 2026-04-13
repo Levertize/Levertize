@@ -18,21 +18,14 @@
 
 ### 👨‍💻 A Little Bit About Me
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="65%" style="border: none;">
-      <ul>
-        <li>🇮🇩 Informatics student at <b>Universitas Muhammadiyah Purwokerto</b> and full-stack developer enthusiast based in Indonesia.</li>
-        <li>🎓 Currently diving deep into <b>Web/Database Systems</b> and <b>Mobile Development</b>.</li>
-        <li>⚡ Fun fact: When I'm not writing code, I'm probably tweaking my PC hardware, testing heavy game mods, or doing some fishing outside.</li>
-        <li>📫 Reach me out: <a href="mailto:iqbaldwi163@gmail.com">iqbaldwi163@gmail.com</a></li>
-      </ul>
-    </td>
-    <td valign="center" width="35%" align="center" style="border: none;">
-      <img src="Gemini_Generated_Image_nqg5m5nqg5m5nqg5-Photoroom.png" width="280" alt="My Profile Image" style="border: none; display: block;">
-    </td>
-  </tr>
-</table>
+<img align="right" src="foto-profil.jpg" width="350" alt="Iqbal Profile Image" style="margin-left: 20px;">
+
+* 🇮🇩 Informatics student at **Universitas Muhammadiyah Purwokerto** and full-stack developer enthusiast based in Indonesia.
+* 🎓 Currently diving deep into **Web/Database Systems** and **Mobile Development**.
+* ⚡ Fun fact: When I'm not writing code, I'm probably tweaking my PC hardware, testing heavy game mods, or doing some fishing outside.
+* 📫 Reach me out: [iqbaldwi163@gmail.com](mailto:iqbaldwi163@gmail.com)
+
+<br clear="right"/>
 
 ---
 
