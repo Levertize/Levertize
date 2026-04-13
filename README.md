@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=hey+wassup;my+name+is+Iqbal+Dwi+Ganjar+Saefullah" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Holla!;my+name+is+Iqbal+Dwi+Ganjar+Saefullah" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,9 +23,9 @@
     <td valign="top" width="60%">
       <ul>
         <li>🇮🇩 Informatics student at <b>Universitas Muhammadiyah Purwokerto</b> and full-stack developer enthusiast based in Indonesia.</li>
-        <li>🎓 Currently diving deep into <b>Web/Database Systems</b>, <b>Mobile Development</b>, and <b>Game Dev</b>.</li>
+        <li>🎓 Currently diving deep into <b>Web/Database Systems</b>, <b>Mobile Development</b>.</li>
         <li>🚀 Building cool things like Sports Management Apps (KONI) and exploring UI/UX wireframing.</li>
-        <li>⚡ Fun fact: When I'm not writing code, I'm probably tweaking my PC hardware, testing heavy game mods, or doing some calisthenics.</li>
+        <li>⚡ Fun fact: When I'm not writing code, I'm probably tweaking my PC hardware, testing heavy game mods, or doing some fishing outside</li>
         <li>📫 Reach me out: <a href="mailto:iqbaldwi163@gmail.com">iqbaldwi163@gmail.com</a></li>
       </ul>
     </td>
