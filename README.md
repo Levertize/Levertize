@@ -17,8 +17,7 @@
 ---
 
 ### 👨‍💻 A Little Bit About Me
-
-<img align="right" src="output-onlinepngtools.png" width="350" alt="Iqbal Profile Image" style="margin-left: 20px;">
+<img align="right" src="foto-profil.jpg" width="300" alt="Iqbal Profile Image" style="margin-left: 20px;">
 
 * 🇮🇩 Informatics student at **Universitas Muhammadiyah Purwokerto** and full-stack developer enthusiast based in Indonesia.
 * 🎓 Currently diving deep into **Web/Database Systems** and **Mobile Development**.
@@ -29,36 +28,26 @@
 
 ---
 
-### 🧰 My Equipment
-
-<div align="center">
-  <h4>🔹 Main Stack 🔹</h4>
+### 🧰 Language and Tools
+**Main Stack:**
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,php,html,css" alt="Main Stack" />
   </a>
-</div>
+</p>
 
-<br>
-
-<div align="center">
-  <h4>🔹 Frameworks & Tools 🔹</h4>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap" alt="Frameworks" valign="middle" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,unity" alt="Tools 1" valign="middle" />
-    </a>
-    <a href="https://netbeans.apache.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="48" height="48" valign="middle" />
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,git" alt="Tools 2" valign="middle" />
-    </a>
-  </p>
-</div>
+**Frameworks & Tools:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,vscode,androidstudio,unity" alt="Tools 1" />
+  </a>
+  <a href="https://netbeans.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="48" height="48" style="vertical-align: top; margin-top: 2px;" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,git" alt="Tools 2" />
+  </a>
+</p>
 
 ---
 
@@ -71,8 +60,7 @@
 
 ---
 
-### 🌐 Let's Connect!
-
+### 🌐 Connect with me:
 <p align="center">
   <a href="https://www.instagram.com/iqbll.xz_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
