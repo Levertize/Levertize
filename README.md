@@ -82,7 +82,7 @@
 
 ---
 
-###  Let's Connect!
+###  Connect with Me :
 
 <p align="center">
   <a href="https://www.instagram.com/iqbll.xz_/" target="_blank">
