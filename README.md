@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=Levertize&label=Profile%20Views&color=0e75b6&style=flat" alt="Iqbal Profile Views" />
 </p>
 
-<hr style="width: 50%; border: 0.5px solid gray;">
+---
 
 
 
@@ -29,7 +29,7 @@
 
 <br clear="right"/>
 
-<hr style="width: 50%; border: 0.5px solid gray;">
+---
 
 
 
