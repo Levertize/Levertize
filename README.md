@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td valign="center" width="35%" align="center" style="border: none;">
-      <img src="foto-profil.jpg" width="280" alt="My Profile Image" style="border: none; display: block;">
+      <img src="Gemini_Generated_Image_nqg5m5nqg5m5nqg5-Photoroom.png" width="280" alt="My Profile Image" style="border: none; display: block;">
     </td>
   </tr>
 </table>
