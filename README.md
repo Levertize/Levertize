@@ -30,7 +30,7 @@
 ---
 
 
-### 🧰 My Equipment
+###  My Equipment :
 
 <div align="center">
   <h4>🔹 Main Stack 🔹</h4>
