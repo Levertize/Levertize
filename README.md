@@ -14,7 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=Levertize&label=Profile%20Views&color=0e75b6&style=flat" alt="Iqbal Profile Views" />
 </p>
 
-___
+<hr style="width: 50%; border: 0.5px solid gray;">
+
 
 
 ### 👨‍💻 A Little Bit About Me
@@ -28,7 +29,8 @@ ___
 
 <br clear="right"/>
 
-___
+<hr style="width: 50%; border: 0.5px solid gray;">
+
 
 
 
