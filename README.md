@@ -62,16 +62,10 @@
 
 ---
 
-### 💡 My Motto
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2500&color=0E75B6&center=true&vCenter=true&width=600&lines=First,+solve+the+problem.+Then,+write+the+code.;Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.;Make+it+work,+make+it+right,+make+it+fast." alt="Typing Quotes" />
-  </a>
-</p>
 
 ---
 
-### 🌐 Let's Connect!
+### Connect with me :
 
 <p align="center">
   <a href="https://www.instagram.com/iqbll.xz_/" target="_blank">
