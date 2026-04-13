@@ -18,18 +18,18 @@
 
 ### 👨‍💻 A Little Bit About Me
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="65%" style="border: none;">
       <ul>
         <li>🇮🇩 Informatics student at <b>Universitas Muhammadiyah Purwokerto</b> and full-stack developer enthusiast based in Indonesia.</li>
-        <li>🎓 Currently diving deep into <b>Web/Database Systems</b>, <b>Mobile Development</b>.</li>
+        <li>🎓 Currently diving deep into <b>Web/Database Systems</b> and <b>Mobile Development</b>.</li>
         <li>⚡ Fun fact: When I'm not writing code, I'm probably tweaking my PC hardware, testing heavy game mods, or doing some fishing outside.</li>
         <li>📫 Reach me out: <a href="mailto:iqbaldwi163@gmail.com">iqbaldwi163@gmail.com</a></li>
       </ul>
     </td>
-    <td valign="center" width="40%" align="center">
-      <img src="" width="350" alt="My Profile Image">
+    <td valign="center" width="35%" align="center" style="border: none;">
+      <img src="foto-profil.jpg" width="280" alt="My Profile Image" style="border: none; display: block;">
     </td>
   </tr>
 </table>
@@ -40,7 +40,6 @@
 
 <div align="center">
   <h4>🔹 Main Stack 🔹</h4>
-  <p>The core languages I use to build logic and structure.</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,php,html,css" alt="Main Stack" />
   </a>
@@ -50,7 +49,6 @@
 
 <div align="center">
   <h4>🔹 Frameworks & Tools 🔹</h4>
-  <p>My essential toolkit for development and design.</p>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap" alt="Frameworks" valign="middle" />
@@ -77,7 +75,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2500&color=0E75B6&center=true&vCenter=true&width=600&lines=First,+solve+the+problem.+Then,+write+the+code.;Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.;Make+it+work,+make+it+right,+make+it+fast." alt="Typing Quotes" />
   </a>
 </p>
-<br/>
 
 ---
 
@@ -87,7 +84,8 @@
   <a href="https://www.instagram.com/iqbll.xz_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  &nbsp;&nbsp; <a href="mailto:iqbaldwi163@gmail.com" target="_blank">
+  &nbsp;&nbsp;
+  <a href="mailto:iqbaldwi163@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;&nbsp;
