@@ -20,23 +20,23 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="65%">
       <ul>
         <li>🇮🇩 Informatics student at <b>Universitas Muhammadiyah Purwokerto</b> and full-stack developer enthusiast based in Indonesia.</li>
-        <li>🎓 Currently diving deep into <b>Web/Database Systems</b>, <b>Mobile Development</b>.</li>
-        <li>⚡ Fun fact: When I'm not writing code, I'm probably tweaking my PC hardware, testing heavy game mods, or doing some fishing outside</li>
+        <li>🎓 Currently diving deep into <b>Web/Database Systems</b> and <b>Mobile Development</b>.</li>
+        <li>⚡ Fun fact: When I'm not writing code, I'm probably tweaking my PC hardware, testing heavy game mods, or doing some fishing outside.</li>
         <li>📫 Reach me out: <a href="mailto:iqbaldwi163@gmail.com">iqbaldwi163@gmail.com</a></li>
       </ul>
     </td>
-    <td valign="center" width="40%" align="center">
-      <img src="https://media1.tenor.com/m/bxKtMMCp8WsAAAAC/anime-cute.gif" width="100%" alt="anime sleeping gif">
+    <td valign="center" width="35%" align="center">
+      <img src="https://media1.tenor.com/m/bxKtMMCp8WsAAAAC/anime-cute.gif" width="250" alt="anime sleeping gif">
     </td>
   </tr>
 </table>
 
 ---
 
-###  My Equipment
+### 🧰 My Equipment
 
 <div align="center">
   <h4>🔹 Main Stack 🔹</h4>
@@ -81,7 +81,7 @@
 
 ---
 
-###  Connect with Me :
+### 🌐 Connect with Me :
 
 <p align="center">
   <a href="https://www.instagram.com/iqbll.xz_/" target="_blank">
