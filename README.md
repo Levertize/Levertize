@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
       <ul>
         <li>🇮🇩 Informatics student at <b>Universitas Muhammadiyah Purwokerto</b> and full-stack developer enthusiast based in Indonesia.</li>
         <li>🎓 Currently diving deep into <b>Web/Database Systems</b>, <b>Mobile Development</b>.</li>
