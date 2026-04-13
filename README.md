@@ -87,7 +87,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" width="100%"/>
-</p>
+
 ---
