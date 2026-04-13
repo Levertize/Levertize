@@ -36,7 +36,7 @@
 
 ---
 
-### 🧰 My Equipment
+###  My Equipment
 
 <div align="center">
   <h4>🔹 Main Stack 🔹</h4>
@@ -81,7 +81,7 @@
 
 ---
 
-### 🌐 Connect with Me :
+###  Connect with Me :
 
 <p align="center">
   <a href="https://www.instagram.com/iqbll.xz_/" target="_blank">
