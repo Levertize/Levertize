@@ -18,7 +18,7 @@
 
 ### 👨‍💻 A Little Bit About Me
 
-<img align="right" src="foto-profil.jpg" width="350" alt="Iqbal Profile Image" style="margin-left: 20px;">
+<img align="right" src="Gemini_Generated_Image_nqg5m5nqg5m5nqg5-Photoroom.png" width="350" alt="Iqbal Profile Image" style="margin-left: 20px;">
 
 * 🇮🇩 Informatics student at **Universitas Muhammadiyah Purwokerto** and full-stack developer enthusiast based in Indonesia.
 * 🎓 Currently diving deep into **Web/Database Systems** and **Mobile Development**.
