@@ -24,7 +24,6 @@
       <ul>
         <li>🇮🇩 Informatics student at <b>Universitas Muhammadiyah Purwokerto</b> and full-stack developer enthusiast based in Indonesia.</li>
         <li>🎓 Currently diving deep into <b>Web/Database Systems</b>, <b>Mobile Development</b>.</li>
-        <li>🚀 Building cool things like Sports Management Apps (KONI) and exploring UI/UX wireframing.</li>
         <li>⚡ Fun fact: When I'm not writing code, I'm probably tweaking my PC hardware, testing heavy game mods, or doing some fishing outside</li>
         <li>📫 Reach me out: <a href="mailto:iqbaldwi163@gmail.com">iqbaldwi163@gmail.com</a></li>
       </ul>
