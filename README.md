@@ -37,7 +37,7 @@
 
 ---
 
-### 🧰 My Arsenal
+###  My Equipment
 
 <div align="center">
   <h4>🔹 Main Stack 🔹</h4>
@@ -82,7 +82,7 @@
 
 ---
 
-### 🌐 Let's Connect!
+###  Let's Connect!
 
 <p align="center">
   <a href="https://www.instagram.com/iqbll.xz_/" target="_blank">
