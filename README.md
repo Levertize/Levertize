@@ -18,8 +18,7 @@
 
 ### 👨‍💻 A Little Bit About Me
 
-<img align="right" src="Gemini_Generated_Image_hgdbouhgdbouhgdb-Picsart-BackgroundRemover.png
-" width="400" alt="Iqbal" style="margin-left: 20px; border-radius: 10px;">
+<img align="right" src="Gemini_Generated_Image_hgdbouhgdbouhgdb-Picsart-BackgroundRemover.png" width="400" alt="Iqbal" style="margin-left: 20px; border-radius: 10px;">
 
 * 🇮🇩 Informatics student at **Universitas Muhammadiyah Purwokerto**.
 * 🎓 Currently diving deep into **Web/Database Systems** and **Mobile Development**.
