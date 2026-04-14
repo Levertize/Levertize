@@ -55,9 +55,6 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=vscode,androidstudio,unity" alt="Tools 1" valign="middle" />
     </a>
-    <a href="https://netbeans.apache.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="48" height="48" valign="middle" />
-    </a>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=figma,git" alt="Tools 2" valign="middle" />
     </a>
