@@ -55,9 +55,6 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=vscode,androidstudio,unity,figma" alt="Tools 1" valign="middle" />
     </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,git" alt="Tools 2" valign="middle" />
-    </a>
   </p>
 </div>
 
