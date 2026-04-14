@@ -53,7 +53,7 @@
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,unity" alt="Tools 1" valign="middle" />
+      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,unity,figma" alt="Tools 1" valign="middle" />
     </a>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=figma,git" alt="Tools 2" valign="middle" />
