@@ -43,11 +43,9 @@
 **Frameworks & Tools:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,vscode,androidstudio,unity" alt="Tools 1" height="40" />
+    <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,vscode,androidstudio,unity,figma,git" alt="Tools 1" height="40" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git" alt="Tools 2" height="40" />
-  </a>
+ 
 </p>
 
 
