@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td valign="center" width="300" align="right" style="border: none;">
-      <img src="output-onlinepngtools (1).png" width="280" alt="My Profile Image" style="border: none; margin-left: auto;">
+      <img src="output-onlinepngtools.png" width="280" alt="My Profile Image" style="border: none; margin-left: auto;">
     </td>
   </tr>
 </table>
