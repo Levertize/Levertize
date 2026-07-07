@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/a2/2a/56/a22a56247c1f8a8483f23a8519e93b2a.gif" alt="Anime Banner" width="100%" style="max-height: 200px; object-fit: cover; border-radius: 10px;">
 </div>
